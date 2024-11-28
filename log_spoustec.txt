@@ -1,0 +1,10 @@
+
+před sleepem: Wed Nov 20 08:46:17 AM CET 2024
+za sleepem: Wed Nov 20 08:46:37 AM CET 2024
+display: Wed Nov 20 08:46:37 AM CET 2024
+volani programu: Wed Nov 20 08:46:42 AM CET 2024
+
+před sleepem: Wed Nov 20 08:46:45 AM CET 2024
+za sleepem: Wed Nov 20 08:47:05 AM CET 2024
+display: Wed Nov 20 08:47:05 AM CET 2024
+volani programu: Wed Nov 20 08:47:41 AM CET 2024
